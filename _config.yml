@@ -1,8 +1,22 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+ defaults:
+   -
+     scope:
+       path: ""    # 一个空的字符串代表项目里的所有文件
+       type: "posts"   # 指定类型为 post
+     values:
+       layout: "my-site"
+   -
+     scope:
+       path: "projects"  # 代表目录 projects/
+       type: "pages" # 以前的 `page`， 在 Jekyll 2.2 里。
+     values:
+       layout: "project" # 覆盖之前的默认布局
+
+title:            Ruomin Huang's Homepage
+longtitle:        Ruomin Huang (黄若民)
+author:           Ruomin Huang
+email:            hrm@mail.ustc.edu.cn
 description: >
   Build Jekyll site with the GitBook style.
 
@@ -14,7 +28,7 @@ baseurl:          '/jekyll-gitbook'
 rss:              RSS
 
 toc:
-  enabled: true
+  enabled: false
   h_min: 1
   h_max: 3
 
