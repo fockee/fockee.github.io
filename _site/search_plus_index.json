@@ -1,0 +1,21 @@
+{"/jekyll-gitbook/jekyll/2019-04-29-license.html": {
+    "title": "License",
+    "keywords": "Jekyll",
+    "url": "/jekyll-gitbook/jekyll/2019-04-29-license.html",
+    "body": "This work is open sourced under the Apache License, Version 2.0, using the same license as the original GitBook repository. Copyright 2019 Tao He."
+  },"/jekyll-gitbook/jekyll/2019-04-28-toc.html": {
+    "title": "How to Generate TOC",
+    "keywords": "Jekyll",
+    "url": "/jekyll-gitbook/jekyll/2019-04-28-toc.html",
+    "body": "The jekyll-gitbook theme leverages jekyll-toc to generate the Contents for the page. The TOC feature is not enabled by default. To use the TOC feature, modify the TOC configuration in _config.yml: toc: enabled: true Why this repo long contents ….. a b c d Why this repo long contents ….. 1 2 3 4 Why this repo long contents ….. e f g h Why this repo 5 6 7 8 Why this repo long contents ….. a b c d Why this repo long contents ….. 1 2 3 4 Why this repo long contents ….. e f g h Why this repo 5 6 7 8 Why this repo long contents ….. a b c d Why this repo long contents ….. 1 2 3 4 Why this repo long contents ….. e f g h Why this repo 5 6 7 8 Why this repo long contents ….. a b c d Why this repo long contents ….. 1 2 3 4 Why this repo long contents ….. e f g h Why this repo 5 6 7 8"
+  },"/jekyll-gitbook/jekyll/2019-04-28-howto.html": {
+    "title": "Teaching Assistant",
+    "keywords": "Jekyll",
+    "url": "/jekyll-gitbook/jekyll/2019-04-28-howto.html",
+    "body": "Undergraduate student course Big data algorithms Ph.D. Candidate course Advanced algorithm design and analysis"
+  },"/jekyll-gitbook/jekyll/2019-04-27-why.html": {
+    "title": "Researches",
+    "keywords": "Jekyll",
+    "url": "/jekyll-gitbook/jekyll/2019-04-27-why.html",
+    "body": "Theory foundation of deep learning Efficient algorithms for machine learning Robust algorithms for machine learning"
+  }}
