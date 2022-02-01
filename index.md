@@ -1,4 +1,8 @@
 ---
+title: Ruomin Huang (黄若民)
+author: Ruomin Huang
+date: 2022-02-01
+category: Jekyll
 layout: home
 ---
 Email: hrm@mail.ustc.edu.cn
