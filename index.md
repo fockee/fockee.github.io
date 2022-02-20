@@ -26,7 +26,7 @@ title: Ruomin Huang
 #### Doctoral course
 * COMP7102P01 Advanced Algorithms Design and Analysis (2021 fall)
 
-### Seminar
+## Seminar
 - High Dimensional Statistics Seminar (2021 fall) with textbooks:
     - [High-Dimensional Statistics: A Non-Asymptotic Viewpoint][4], by Martin J. Wainwright. 
     - [High-Dimensional Probability: An Introduction with Applications in Data Science][5], by Roman Vershynin.
