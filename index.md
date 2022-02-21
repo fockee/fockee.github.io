@@ -2,15 +2,28 @@
 layout: default
 title: Ruomin Huang
 ---
+He is Ruomin Huang (somehow he usually goes by Focke). 
+
 ## Educational Experience
 
-* I am currently a graduate student in the School of Data Science at [USTC][1], DIAG Group, supervised by Prof.[Hu Ding][2]. (2020 ~ Now)
+* He's currently a graduate student in the School of Data Science at [USTC][1], DIAG Group, supervised by Prof.[Hu Ding][2]. (2020 ~ Now)
 
-* I received my bachelor degree in Information and Computational Science from the [School of Mathematical Science][3], USTC. (2016 ~ 2020)
+* He received his bachelor degree in Information and Computational Science from the [School of Mathematical Science][3], USTC. (2016 ~ 2020)
 
 
 
-## Research Interest:
+## Research Interests:
+He is instereted in **Machine Learning** and **Statistics**, especially the following topics.
+- Statistical learning theory
+    - Kernel method
+    - Deep learning
+- Optimization
+    - Stochastic optimization
+- Optimal Transport
+    - Computation
+    - Application in machine learning
+
+He is pursuing the following.
 
 * **Theory foundation** of deep learning;
 
@@ -19,6 +32,7 @@ title: Ruomin Huang
 *  **Robust** algorithms in machine learning.
 
 ## Teaching Assistant
+Perhaps he is not good at teaching. Actually he was criticized as a wordy teacher when he taught his younger cousin the plane geometry, as he was illustrating how to reduce things to axioms.
 
 #### Undergraduate course
 * 01118601 Algorithms for Big Data (2021 spring) 
@@ -27,10 +41,16 @@ title: Ruomin Huang
 * COMP7102P01 Advanced Algorithms Design and Analysis (2021 fall)
 
 ## Seminar
-- High Dimensional Statistics Seminar (2021 fall) with textbooks:
+
+This guy really enjoys seminars and is open to discussions.
+
+- Feature Learning Seminar (2022 spring) on papers:
+    - the Tensor Program series, by [Greg Yang](https://www.microsoft.com/en-us/research/people/gregyang/).
+
+- High Dimensional Statistics Seminar (2021 fall) on textbooks:
     - [High-Dimensional Statistics: A Non-Asymptotic Viewpoint][4], by Martin J. Wainwright. 
     - [High-Dimensional Probability: An Introduction with Applications in Data Science][5], by Roman Vershynin.
-- Spectral and Algebraic Graph Seminar (2021 fall) with the note:
+- Spectral and Algebraic Graph Seminar (2021 fall) on the note:
     - [Spectral and Algebraic Graph Theory][6], by Daniel A. Spielman.
 
 
