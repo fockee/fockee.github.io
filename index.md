@@ -45,7 +45,7 @@ Perhaps he is not good at teaching. Actually he was criticized as a wordy teache
 This guy really enjoys seminars and is open to discussions.
 
 - Feature Learning Seminar (2022 spring) on papers:
-    - the Tensor Program series, by [Greg Yang](https://www.microsoft.com/en-us/research/people/gregyang/).
+    - the Tensor Program series, by [Greg Yang](https://www.microsoft.com/en-us/research/people/gregyang/), et al.
 
 - High Dimensional Statistics Seminar (2021 fall) on textbooks:
     - [High-Dimensional Statistics: A Non-Asymptotic Viewpoint][4], by Martin J. Wainwright. 
