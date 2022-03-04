@@ -13,7 +13,7 @@ He is Ruomin Huang (somehow he usually goes by Focke).
 
 
 ## Research Interests:
-He is instereted in **Machine Learning** and **Statistics**, especially the following topics.
+He is interested in **Machine Learning** and **Statistics**, especially the following topics.
 - Statistical learning theory
     - Kernel method
     - Deep learning
