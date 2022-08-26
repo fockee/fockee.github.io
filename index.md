@@ -32,7 +32,6 @@ He is pursuing the following.
 *  **Robust** algorithms in machine learning.
 
 ## Teaching Assistant
-Perhaps he is not good at teaching. Actually he was criticized as a wordy teacher when he taught his younger cousin the plane geometry, as he was illustrating how to reduce things to axioms.
 
 #### Undergraduate course
 * 01118601 Algorithms for Big Data (2021 spring) 
