@@ -16,7 +16,8 @@ He is Ruomin Huang (he usually goes by Focke).
 He is interested in **Machine Learning** and **Statistics**, especially the following topics.
 - Statistical learning theory
     - Kernel method
-    - Deep learning
+- Generative models
+    - Diffusion models
 - Optimization
     - Stochastic optimization
 - Optimal Transport
@@ -58,6 +59,6 @@ This guy really enjoys seminars and is open to discussions.
 [1]: http://en.ustc.edu.cn/
 [2]: http://staff.ustc.edu.cn/~huding/index.html
 [3]: http://math.ustc.edu.cn/ENGLISH/list.htm
-[4]:https://www.cambridge.org/core/books/highdimensional-statistics/8A91ECEEC38F46DAB53E9FF8757C7A4E
-[5]:https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.html#
-[6]:http://cs-www.cs.yale.edu/homes/spielman/sagt/
+[4]: https://www.cambridge.org/core/books/highdimensional-statistics/8A91ECEEC38F46DAB53E9FF8757C7A4E
+[5]: https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.html#
+[6]: http://cs-www.cs.yale.edu/homes/spielman/sagt/
