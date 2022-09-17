@@ -44,10 +44,13 @@ He is pursuing the following.
 
 This guy really enjoys seminars and is open to discussions.
 
+- Learning Theory Seminar (2022 fall) on the book:
+    - [Learning Theory from First Principles][7], by Francis Bach.
+
 - Feature Learning Seminar (2022 spring) on papers:
     - the Tensor Program series, by [Greg Yang](https://www.microsoft.com/en-us/research/people/gregyang/), et al.
 
-- High Dimensional Statistics Seminar (2021 fall) on textbooks:
+- High Dimensional Statistics Seminar (2021 fall) on books:
     - [High-Dimensional Statistics: A Non-Asymptotic Viewpoint][4], by Martin J. Wainwright. 
     - [High-Dimensional Probability: An Introduction with Applications in Data Science][5], by Roman Vershynin.
 - Spectral and Algebraic Graph Seminar (2021 fall) on the note:
@@ -62,3 +65,4 @@ This guy really enjoys seminars and is open to discussions.
 [4]: https://www.cambridge.org/core/books/highdimensional-statistics/8A91ECEEC38F46DAB53E9FF8757C7A4E
 [5]: https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.html#
 [6]: http://cs-www.cs.yale.edu/homes/spielman/sagt/
+[7]: https://www.di.ens.fr/~fbach/ltfp_book.pdf
