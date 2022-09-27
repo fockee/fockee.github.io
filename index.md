@@ -42,7 +42,7 @@ He is pursuing the following.
 
 ## Seminar
 
-This guy really enjoys seminars and is open to discussions.
+He really enjoys seminars and is open to discussions.
 
 - Learning Theory Seminar (2022 fall) on the book:
     - [Learning Theory from First Principles][7], by Francis Bach.
