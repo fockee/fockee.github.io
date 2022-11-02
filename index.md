@@ -14,6 +14,7 @@ He is Ruomin Huang (he usually goes by Focke).
 
 ## Research Interests:
 He is interested in **Machine Learning** and **Statistics**, especially the following topics.
+
 - Statistical learning theory
     - Kernel method
 - Generative models
@@ -31,14 +32,18 @@ He is pursuing the following.
 * **Effcient** algorithms in machine Learning;
 
 *  **Robust** algorithms in machine learning.
-
+## Publications
+ \* denotes equal contribution.
+- **Ruomin Huang**, Jiawei Huang, Wenjie Liu, Hu Ding, “Coresets for Wasserstein Distributionally Robust Optimization Problems,” NeurIPS 2022.
+- Jiaxiang Chen, Qingyuan Yang, **Ruomin Huang**, Hu Ding, "Coresets for Relational Data and The Applications," NeurIPS 2022.
+- Jiawei Huang*, **Ruomin Huang***, Wenjie Liu*, Nikolaos M. Freris, Hu Ding, "A Novel Sequential Coreset Method for Gradient Descent Algorithms," ICML 2021. 
 ## Teaching Assistant
 
 #### Undergraduate course
-* 01118601 Algorithms for Big Data (2021 spring) 
+* 01118601 Algorithms for Big Data (2021 spring, USTC) 
 
 #### Doctoral course
-* COMP7102P01 Advanced Algorithms Design and Analysis (2021 fall)
+* COMP7102P01 Advanced Algorithms Design and Analysis (2021 fall, USTC)
 
 ## Seminar
 
