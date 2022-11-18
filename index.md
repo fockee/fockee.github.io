@@ -33,7 +33,11 @@ He is pursuing the following.
 
 *  **Robust** algorithms in machine learning.
 
-
+## Publications
+ \* denotes equal contribution.
+- **Ruomin Huang**, Jiawei Huang, Wenjie Liu, Hu Ding, “Coresets for Wasserstein Distributionally Robust Optimization Problems,” NeurIPS 2022 (**spotlight**).
+- Jiaxiang Chen, Qingyuan Yang, **Ruomin Huang**, Hu Ding, "Coresets for Relational Data and The Applications," NeurIPS 2022 (**spotlight**).
+- Jiawei Huang\*, **Ruomin Huang**\*, Wenjie Liu\*, Nikolaos M. Freris, Hu Ding, "A Novel Sequential Coreset Method for Gradient Descent Algorithms," ICML 2021. 
 
 ## Teaching Assistant
 
