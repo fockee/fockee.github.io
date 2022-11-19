@@ -8,7 +8,7 @@ He is Ruomin Huang (he usually goes by Focke).
 
 * He's currently a graduate student in the School of Data Science at [USTC][1], DIAG Group, supervised by Prof.[Hu Ding][2]. (2020 ~ Present)
 
-* He received his bachelor degree in Information and Computational Science from the [School of Mathematical Science][3], USTC. (2016 ~ 2020)
+* He received his bachelor's degree in Information and Computational Science from the [School of Mathematical Science][3], USTC. (2016 ~ 2020)
 
 
 
@@ -29,7 +29,7 @@ He is pursuing the following.
 
 * **Theory foundation** of deep learning;
 
-* **Effcient** algorithms in machine Learning;
+* **Efficient** algorithms in machine learning;
 
 *  **Robust** algorithms in machine learning.
 
@@ -49,7 +49,7 @@ He is pursuing the following.
 
 ## Seminar
 
-He really enjoys seminars and is open to discussions.
+He enjoys seminars and is open to discussions.
 
 - Learning Theory Seminar (2022 fall) on the book:
     - [Learning Theory from First Principles][7], by Francis Bach.
@@ -57,7 +57,7 @@ He really enjoys seminars and is open to discussions.
 - Feature Learning Seminar (2022 spring) on papers:
     - the Tensor Program series, by [Greg Yang](https://www.microsoft.com/en-us/research/people/gregyang/), et al.
 
-- High Dimensional Statistics Seminar (2021 fall) on books:
+- High-Dimensional Statistics Seminar (2021 fall) on books:
     - [High-Dimensional Statistics: A Non-Asymptotic Viewpoint][4], by Martin J. Wainwright. 
     - [High-Dimensional Probability: An Introduction with Applications in Data Science][5], by Roman Vershynin.
 - Spectral and Algebraic Graph Seminar (2021 fall) on the note:
