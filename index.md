@@ -13,7 +13,7 @@ He is Ruomin Huang (he usually goes by Focke).
 
 
 ## Research Interests:
-He is interested in **Machine Learning** and **Statistics**, especially the following topics.
+He is interested in **Machine Learning** and **Statistics**, especially the following topics. Recently, he is interested in the Edge of Stability (EoS) phenomenon in deep learning.
 
 - Statistical learning theory
     - Kernel method
