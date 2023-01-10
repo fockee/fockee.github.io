@@ -35,6 +35,7 @@ He is pursuing the following.
 
 ## Publications
  \* denotes equal contribution.
+- Hu Ding, **Ruomin Huang**, Kai Liu, Haikuo Yu, Zixiu Wang, [Randomized Greedy Algorithms and Composable Coreset for k-Center Clustering with Outliers](https://arxiv.org/abs/2301.02814), submitted for publication.
 - **Ruomin Huang**, Jiawei Huang, Wenjie Liu, Hu Ding, [Coresets for Wasserstein Distributionally Robust Optimization Problems](https://arxiv.org/abs/2210.04260), NeurIPS 2022 (**spotlight**).
 - Jiaxiang Chen, Qingyuan Yang, **Ruomin Huang**, Hu Ding, [Coresets for Relational Data and The Applications](https://arxiv.org/abs/2210.04249), NeurIPS 2022 (**spotlight**).
 - Jiawei Huang\*, **Ruomin Huang**\*, Wenjie Liu\*, Nikolaos M. Freris, Hu Ding, [A Novel Sequential Coreset Method for Gradient Descent Algorithms](https://arxiv.org/abs/2112.02504), ICML 2021. 
