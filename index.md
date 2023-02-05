@@ -6,7 +6,7 @@ He is Ruomin Huang (he usually goes by Focke).
 
 ## Educational Experience
 
-* He's currently a graduate student in the School of Data Science at [USTC][1], DIAG Group, supervised by Prof.[Hu Ding][2]. (2020 ~ Present)
+* He's currently a graduate student in the School of Data Science at [USTC][1], DIAG Group, supervised by Prof. [Hu Ding][2]. (2020 ~ Present)
 
 * He received his bachelor's degree in Information and Computational Science from the [School of Mathematical Science][3], USTC. (2016 ~ 2020)
 
