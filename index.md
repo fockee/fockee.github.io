@@ -13,25 +13,26 @@ He is Ruomin Huang (he usually goes by Focke).
 
 
 ## Research Interests:
-He is interested in **Machine Learning**, especially the following topics. Recently, he is interested in the Edge of Stability (EoS) phenomenon in deep learning.
+He is interested in Machine Learning (ML), especially the following topics. Recently, he is interested in the Edge of Stability (EoS) phenomenon in deep learning (DL).
 
 - Statistical learning theory
-    - Kernel method
+    - Kernel methods
 - Generative models
     - Diffusion models
 - Optimization
     - Stochastic optimization
-- Optimal Transport
+- Optimal transport
     - Computation
-    - Application in machine learning
+    - Applications in ML
+- Large-scale ML
+    - Coresets
 
-He is pursuing the following.
 
-* **Theory foundation** of deep learning;
+He is pursuing the following:
 
-* **Efficient** algorithms in machine learning;
+* **Theory foundations** of DL;
 
-*  **Robust** algorithms in machine learning.
+* **Efficient** and **Robust** algorithms in ML.
 
 ## Publications
  \* denotes equal contribution.
@@ -53,7 +54,7 @@ He is pursuing the following.
 
 ## Seminar
 
-He enjoys seminars and is open to discussions.
+He is open to discussions.
 
 - Learning Theory Seminar (2022 fall) on the book:
     - [Learning Theory from First Principles][7], by Francis Bach.
