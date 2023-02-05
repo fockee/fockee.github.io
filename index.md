@@ -24,7 +24,7 @@ He is interested in Machine Learning (ML), especially the following topics. Rece
 - Optimal transport
     - Computation
     - Applications in ML
-- Large-scale ML
+- Algorithmic problems in ML
     - Coresets
 
 
