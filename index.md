@@ -2,7 +2,7 @@
 layout: default
 title: Ruomin Huang
 ---
-He is Ruomin Huang (he usually goes by Focke). 
+He is Ruomin Huang (**黄若民** in Chinese and he usually goes by Focke). 
 
 ## Educational Experience
 
