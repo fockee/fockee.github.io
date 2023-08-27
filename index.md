@@ -2,18 +2,11 @@
 layout: default
 title: Ruomin Huang
 ---
-He is Ruomin Huang (**黄若民** in Chinese and he usually goes by Focke). 
-
-## Educational Experience
-
-* He's currently a graduate student in the School of Data Science at [USTC][1], DIAG Group, supervised by Prof. [Hu Ding][2]. (2020 ~ Present)
-
-* He received his bachelor's degree in Information and Computational Science from the [School of Mathematical Science][3], USTC. (2016 ~ 2020)
-
+He is Ruomin Huang (**黄若民** in Chinese), a first-year CS Ph.D. student at Duke University, working with Prof. [Rong Ge][0]. Previously he recieved his master's and bachelor's degrees at [USTC][1], where he worked with Prof. [Hu Ding][2].
 
 
 ## Research Interests:
-He is interested in Machine Learning (ML), especially the following topics. Recently, he is interested in the Edge of Stability (EoS) phenomenon in deep learning (DL).
+He is interested in Machine Learning (ML), especially the following topics.
 
 - Statistical learning theory
     - Kernel methods
@@ -70,9 +63,9 @@ He is open to discussions.
 
 
 
-
+[0]: https://users.cs.duke.edu/~rongge/
 [1]: http://en.ustc.edu.cn/
-[2]: http://staff.ustc.edu.cn/~huding/index.html
+[2]: https://hu-ding.github.io/
 [3]: http://math.ustc.edu.cn/ENGLISH/list.htm
 [4]: https://www.cambridge.org/core/books/highdimensional-statistics/8A91ECEEC38F46DAB53E9FF8757C7A4E
 [5]: https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.html#
