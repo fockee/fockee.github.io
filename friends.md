@@ -10,6 +10,6 @@ Happy to be friends with them.
 
 
 
-[1]: https://ustcqzy.github.io/
+[1]: https://ziyueqiu.github.io/
 [2]: https://volltin.com/
 [3]: https://guanxiux.github.io/selfie/
