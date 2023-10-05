@@ -6,7 +6,7 @@ He is Ruomin Huang (**黄若民** in Chinese), a first-year CS Ph.D. student at 
 
 
 ## Research Interests:
-Previously he worked on the algorithmic aspect of ML. Now he is generally interested in machine learning (ML) theory, especially deep learning (DL) theory. Here lists some intriguing DL topics.
+Previously he worked on the algorithmic aspect of machine learning (ML). Now he is generally interested in ML theory, especially deep learning (DL) theory. Here lists some intriguing DL topics.
 
 - In-context learning
 - Feature learning
