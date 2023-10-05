@@ -2,23 +2,15 @@
 layout: default
 title: Ruomin Huang
 ---
-He is Ruomin Huang (**黄若民** in Chinese), a first-year CS Ph.D. student at Duke University, working with Prof. [Rong Ge][0]. Previously he recieved his master's and bachelor's degrees at [USTC][1], where he worked with Prof. [Hu Ding][2].
+He is Ruomin Huang (**黄若民** in Chinese), a first-year CS Ph.D. student at Duke University, advised by Prof. [Rong Ge][0]. Previously he recieved his master's and bachelor's degrees at [USTC][1], where he worked with Prof. [Hu Ding][2].
 
 
 ## Research Interests:
-He is interested in Machine Learning (ML), especially the following topics.
+Previously he worked on the algorithmic aspect of ML. Now he is generally interested in machine learning (ML) theory, especially deep learning (DL) theory. Here lists some intriguing DL topics.
 
-- Statistical learning theory
-    - Kernel methods
-- Generative models
-    - Diffusion models
-- Optimization
-    - Stochastic optimization
-- Optimal transport
-    - Computation
-    - Applications in ML
-- Algorithmic problems in ML
-    - Coresets
+- In-context learning
+- Feature learning
+- Edge of stability
 
 
 He is pursuing the following:
