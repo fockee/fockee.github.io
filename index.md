@@ -2,22 +2,15 @@
 layout: default
 title: Ruomin Huang
 ---
-He is Ruomin Huang (**黄若民** in Chinese), a first-year CS Ph.D. student at Duke University, advised by Prof. [Rong Ge][0]. Previously he recieved his master's and bachelor's degrees at [USTC][1], where he worked with Prof. [Hu Ding][2].
+I am Ruomin Huang (**黄若民** in Chinese), a first-year CS Ph.D. student at Duke University. I am fortunate to be advised by Prof. [Rong Ge][0]. Previously I received my M.S. in Data Science and B.S. in Computational Mathematics from [USTC][1], where I worked with Prof. [Hu Ding][2].
 
 
 ## Research Interests:
-Previously he worked on the algorithmic aspect of machine learning (ML). Now he is generally interested in ML theory, especially deep learning (DL) theory. Here lists some intriguing DL topics.
+Previously I worked on the algorithmic aspect of machine learning (ML). Now I am generally interested in ML theory, especially deep learning (DL) theory. Here are some interesting DL topics.
 
 - In-context learning
 - Feature learning
 - Edge of stability
-
-
-He is pursuing the following:
-
-* **Theory foundations** of DL;
-
-* **Efficient** and **Robust** algorithms in ML.
 
 ## Publications
  \* denotes equal contribution.
@@ -39,7 +32,7 @@ He is pursuing the following:
 
 ## Seminar
 
-He is open to discussions.
+I am open to discussions.
 
 - Feature Learning Seminar (2022 spring) on papers:
     - the Tensor Program series, by [Greg Yang](https://www.microsoft.com/en-us/research/people/gregyang/), et al.
