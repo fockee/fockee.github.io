@@ -2,19 +2,20 @@
 layout: default
 title: Ruomin Huang
 ---
-I am Ruomin Huang (**黄若民** in Chinese), a first-year CS Ph.D. student at Duke University. I am fortunate to be advised by Prof. [Rong Ge][0]. Previously I received M.S. in Data Science and B.S. in Computational Mathematics from [USTC][1], where I worked with Prof. [Hu Ding][2].
+I am Ruomin Huang (**黄若民** in Chinese), a 1st-year CS Ph.D. student at Duke University. I am fortunate to be advised by Prof. [Rong Ge][0]. Previously I received M.S. in Data Science and B.S. in Computational Mathematics from [USTC][1], where I worked with Prof. [Hu Ding][2].
 
 
 ## Research Interests:
-Previously I worked on the algorithmic aspect of ML. Now I am generally interested in ML theory, especially DL theory. Here are some interesting topics.
-
-- In-context learning
-- Feature learning
-- Edge of stability
+Previously I worked on the algorithmic aspect of ML. Recently I am interested in the mechanism of in-context learning.
 
 ## Publications
  \* denotes equal contribution.
-- Hu Ding, **Ruomin Huang**, Kai Liu, Haikuo Yu, Zixiu Wang, [Randomized Greedy Algorithms and Composable Coreset for k-Center Clustering with Outliers](https://arxiv.org/abs/2301.02814), submitted for publication.
+
+- **Ruomin Huang**, Rong Ge, [Task Descriptors Help Transformers Learn Linear Models In-Context](https://openreview.net/pdf?id=4SfCI1DJhr), ICML 2024 Workshop on In-Context Learning. 
+
+- Weichen Lin\*, Jiaxiang Chen\*, **Ruomin Huang**, Hu Ding, [An Effective Dynamic Gradient Calibration Method for Continual Learning](https://openreview.net/pdf?id=q14AbM4kdv), ICML 2024.
+
+- Hu Ding, **Ruomin Huang**, Kai Liu, Haikuo Yu, Zixiu Wang, [Randomized Greedy Algorithms and Composable Coreset for k-Center Clustering with Outliers](https://arxiv.org/abs/2301.02814), preprint.
 
 - **Ruomin Huang**, Jiawei Huang, Wenjie Liu, Hu Ding, [Coresets for Wasserstein Distributionally Robust Optimization Problems](https://arxiv.org/abs/2210.04260), NeurIPS 2022 (**spotlight**).
 
@@ -25,7 +26,8 @@ Previously I worked on the algorithmic aspect of ML. Now I am generally interest
 ## Teaching Assistant
 
 #### Undergraduate course
-* 01118601 Algorithms for Big Data (2021 spring, USTC) 
+* 01118601 Algorithms for Big Data (2021 spring, USTC)
+* COMPSCI 330 Design and Analysis of Algorithms (2024 spring, Duke)
 
 #### Doctoral course
 * COMP7102P01 Advanced Algorithms Design and Analysis (2021 fall, USTC)
