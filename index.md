@@ -13,7 +13,7 @@ Previously I worked on the algorithmic aspect of ML. Recently I am interested in
 
 - **Ruomin Huang**, Rong Ge, [Task Descriptors Help Transformers Learn Linear Models In-Context](https://openreview.net/pdf?id=4SfCI1DJhr), ICML 2024 Workshop on In-Context Learning. 
 
-- Roy Xie, Junlin Wang, Ruomin Huang, Minxing Zhang, Rong Ge, Jian Pei, Neil Gong, Bhuwan Dhingra, [ReCaLL: Membership Inference via Relative Conditional Log-Likelihoods](https://royxie.com/recall-project-page/), preprint.
+- Roy Xie, Junlin Wang, **Ruomin Huang**, Minxing Zhang, Rong Ge, Jian Pei, Neil Gong, Bhuwan Dhingra, [ReCaLL: Membership Inference via Relative Conditional Log-Likelihoods](https://royxie.com/recall-project-page/), preprint.
 
 - Weichen Lin\*, Jiaxiang Chen\*, **Ruomin Huang**, Hu Ding, [An Effective Dynamic Gradient Calibration Method for Continual Learning](https://openreview.net/pdf?id=q14AbM4kdv), ICML 2024.
 
