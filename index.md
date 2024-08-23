@@ -2,11 +2,11 @@
 layout: default
 title: Ruomin Huang
 ---
-I am Ruomin Huang (**黄若民** in Chinese), a 1st-year CS Ph.D. student at Duke University. I am fortunate to be advised by Prof. [Rong Ge][0]. Previously I received M.S. in Data Science and B.S. in Computational Mathematics from [USTC][1], where I worked with Prof. [Hu Ding][2].
+I am Ruomin Huang (**黄若民** in Chinese), a 2nd-year CS Ph.D. student at Duke University. I am very fortunate to be advised by Prof. [Rong Ge][0]. Previously I received M.S. in Data Science and B.S. in Computational Mathematics from [USTC][1], where I worked with Prof. [Hu Ding][2].
 
 
 ## Research
-Previously I worked on the algorithmic aspect of ML. Recently I am interested in the mechanism of in-context learning.
+Previously I worked on the algorithmic aspect of ML. Now I am interested in the mechanism of in-context learning.
 
 #### Publications
  \* denotes equal contribution.
@@ -39,7 +39,7 @@ Previously I worked on the algorithmic aspect of ML. Recently I am interested in
 I am open to discussions.
 
 - Feature Learning Seminar (2022 spring) on papers:
-    - the Tensor Program series, by [Greg Yang](https://www.microsoft.com/en-us/research/people/gregyang/), et al.
+    - the Tensor Program series, by [Greg Yang](https://thegregyang.com/), et al.
 
 - High-Dimensional Statistics Seminar (2021 fall) on books:
     - [High-Dimensional Statistics: A Non-Asymptotic Viewpoint][4], by Martin J. Wainwright. 
