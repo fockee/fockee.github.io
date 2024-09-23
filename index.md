@@ -15,7 +15,7 @@ Previously I worked on the algorithmic aspect of ML. Now I am interested in the 
 
 - Roy Xie, Junlin Wang, **Ruomin Huang**, Minxing Zhang, Rong Ge, Jian Pei, Neil Gong, Bhuwan Dhingra, [ReCaLL: Membership Inference via Relative Conditional Log-Likelihoods](https://royxie.com/recall-project-page/), preprint.
 
-- Weichen Lin\*, Jiaxiang Chen\*, **Ruomin Huang**, Hu Ding, [An Effective Dynamic Gradient Calibration Method for Continual Learning](https://openreview.net/pdf?id=q14AbM4kdv), ICML 2024.
+- Weichen Lin\*, Jiaxiang Chen\*, **Ruomin Huang**, Hu Ding, [An Effective Dynamic Gradient Calibration Method for Continual Learning](https://www.arxiv.org/abs/2407.20956), ICML 2024.
 
 - Hu Ding, **Ruomin Huang**, Kai Liu, Haikuo Yu, Zixiu Wang, [Randomized Greedy Algorithms and Composable Coreset for k-Center Clustering with Outliers](https://arxiv.org/abs/2301.02814), preprint.
 
