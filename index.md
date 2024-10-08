@@ -11,23 +11,18 @@ Previously I worked on the algorithmic aspect of ML. Now I am interested in ~~me
 #### Publications
  \* denotes equal contribution.
 
-- **Ruomin Huang**, Rong Ge, [Task Descriptors Help Transformers Learn Linear Models In-Context](https://openreview.net/pdf?id=4SfCI1DJhr) 
-ICML 2024 Workshop on In-Context Learning 
+- [Task Descriptors Help Transformers Learn Linear Models In-Context](https://openreview.net/pdf?id=4SfCI1DJhr)<br>**Ruomin Huang** and Rong Ge<br>ICML 2024 Workshop on In-Context Learning 
 
-- Roy Xie, Junlin Wang, **Ruomin Huang**, Minxing Zhang, Rong Ge, Jian Pei, Neil Gong, Bhuwan Dhingra, [ReCaLL: Membership Inference via Relative Conditional Log-Likelihoods](https://royxie.com/recall-project-page/)
- EMNLP 2024
+- [ReCaLL: Membership Inference via Relative Conditional Log-Likelihoods](https://royxie.com/recall-project-page/)<br>Roy Xie, Junlin Wang, **Ruomin Huang**, Minxing Zhang, Rong Ge, Jian Pei, Neil Gong, Bhuwan Dhingra<br>EMNLP 2024
 
 
-- Hu Ding, **Ruomin Huang**, Kai Liu, Haikuo Yu, Zixiu Wang, [Randomized Greedy Algorithms and Composable Coreset for k-Center Clustering with Outliers](https://arxiv.org/abs/2301.02814)
- Arxiv
+- [Randomized Greedy Algorithms and Composable Coreset for k-Center Clustering with Outliers](https://arxiv.org/abs/2301.02814)<br>Hu Ding, **Ruomin Huang**, Kai Liu, Haikuo Yu, Zixiu Wang<br>Preprint
 
-- **Ruomin Huang**, Jiawei Huang, Wenjie Liu, Hu Ding, [Coresets for Wasserstein Distributionally Robust Optimization Problems](https://arxiv.org/abs/2210.04260), NeurIPS 2022 (**spotlight**).
+- [Coresets for Wasserstein Distributionally Robust Optimization Problems](https://arxiv.org/abs/2210.04260)<br>**Ruomin Huang**, Jiawei Huang, Wenjie Liu, Hu Ding  <br>NeurIPS 2022 (**spotlight**)
 
-- Jiaxiang Chen, Qingyuan Yang, **Ruomin Huang**, Hu Ding, [Coresets for Relational Data and The Applications](https://arxiv.org/abs/2210.04249) 
-NeurIPS 2022 (**spotlight**)
+- [Coresets for Relational Data and The Applications](https://arxiv.org/abs/2210.04249)<br>Jiaxiang Chen, Qingyuan Yang, **Ruomin Huang**, Hu Ding<br>NeurIPS 2022 (**spotlight**)
 
-- Jiawei Huang\*, **Ruomin Huang**\*, Wenjie Liu\*, Nikolaos M. Freris, Hu Ding, [A Novel Sequential Coreset Method for Gradient Descent Algorithms](https://arxiv.org/abs/2112.02504)
-ICML 2021 (**spotlight**)
+- [A Novel Sequential Coreset Method for Gradient Descent Algorithms](https://arxiv.org/abs/2112.02504)<br>Jiawei Huang\*, **Ruomin Huang**\*, Wenjie Liu\*, Nikolaos M. Freris, Hu Ding<br>ICML 2021 (**spotlight**)
 
 ## Teaching Assistant
 
