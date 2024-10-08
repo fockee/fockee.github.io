@@ -6,24 +6,28 @@ I am Ruomin Huang (**黄若民** in Chinese), a 2nd-year CS Ph.D. student at Duk
 
 
 ## Research
-Previously I worked on the algorithmic aspect of ML. Now I am interested in the mechanism of in-context learning.
+Previously I worked on the algorithmic aspect of ML. Now I am interested in ~~mechanisms~~ physics of transformers.
 
 #### Publications
  \* denotes equal contribution.
 
-- **Ruomin Huang**, Rong Ge, [Task Descriptors Help Transformers Learn Linear Models In-Context](https://openreview.net/pdf?id=4SfCI1DJhr), ICML 2024 Workshop on In-Context Learning. 
+- **Ruomin Huang**, Rong Ge, [Task Descriptors Help Transformers Learn Linear Models In-Context](https://openreview.net/pdf?id=4SfCI1DJhr) 
+ICML 2024 Workshop on In-Context Learning 
 
-- Roy Xie, Junlin Wang, **Ruomin Huang**, Minxing Zhang, Rong Ge, Jian Pei, Neil Gong, Bhuwan Dhingra, [ReCaLL: Membership Inference via Relative Conditional Log-Likelihoods](https://royxie.com/recall-project-page/), preprint.
+- Roy Xie, Junlin Wang, **Ruomin Huang**, Minxing Zhang, Rong Ge, Jian Pei, Neil Gong, Bhuwan Dhingra, [ReCaLL: Membership Inference via Relative Conditional Log-Likelihoods](https://royxie.com/recall-project-page/)
+ EMNLP 2024
 
-- Weichen Lin\*, Jiaxiang Chen\*, **Ruomin Huang**, Hu Ding, [An Effective Dynamic Gradient Calibration Method for Continual Learning](https://www.arxiv.org/abs/2407.20956), ICML 2024.
 
-- Hu Ding, **Ruomin Huang**, Kai Liu, Haikuo Yu, Zixiu Wang, [Randomized Greedy Algorithms and Composable Coreset for k-Center Clustering with Outliers](https://arxiv.org/abs/2301.02814), preprint.
+- Hu Ding, **Ruomin Huang**, Kai Liu, Haikuo Yu, Zixiu Wang, [Randomized Greedy Algorithms and Composable Coreset for k-Center Clustering with Outliers](https://arxiv.org/abs/2301.02814)
+ Arxiv
 
 - **Ruomin Huang**, Jiawei Huang, Wenjie Liu, Hu Ding, [Coresets for Wasserstein Distributionally Robust Optimization Problems](https://arxiv.org/abs/2210.04260), NeurIPS 2022 (**spotlight**).
 
-- Jiaxiang Chen, Qingyuan Yang, **Ruomin Huang**, Hu Ding, [Coresets for Relational Data and The Applications](https://arxiv.org/abs/2210.04249), NeurIPS 2022 (**spotlight**).
+- Jiaxiang Chen, Qingyuan Yang, **Ruomin Huang**, Hu Ding, [Coresets for Relational Data and The Applications](https://arxiv.org/abs/2210.04249) 
+NeurIPS 2022 (**spotlight**)
 
-- Jiawei Huang\*, **Ruomin Huang**\*, Wenjie Liu\*, Nikolaos M. Freris, Hu Ding, [A Novel Sequential Coreset Method for Gradient Descent Algorithms](https://arxiv.org/abs/2112.02504), ICML 2021 (**spotlight**). 
+- Jiawei Huang\*, **Ruomin Huang**\*, Wenjie Liu\*, Nikolaos M. Freris, Hu Ding, [A Novel Sequential Coreset Method for Gradient Descent Algorithms](https://arxiv.org/abs/2112.02504)
+ICML 2021 (**spotlight**)
 
 ## Teaching Assistant
 
