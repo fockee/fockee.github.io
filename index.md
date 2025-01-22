@@ -11,7 +11,7 @@ Previously I worked on the algorithmic aspect of ML. Now I am interested in ~~me
 #### Publications
  \* denotes equal contribution.
 
-- [Task Descriptors Help Transformers Learn Linear Models In-Context](https://openreview.net/pdf?id=4SfCI1DJhr)<br>**Ruomin Huang** and Rong Ge<br>ICML 2024 Workshop on In-Context Learning 
+- [Task Descriptors Help Transformers Learn Linear Models In-Context](https://openreview.net/pdf?id=lZNb1CVm5O)<br>**Ruomin Huang** and Rong Ge<br>ICLR 2025
 
 - [ReCaLL: Membership Inference via Relative Conditional Log-Likelihoods](https://royxie.com/recall-project-page/)<br>Roy Xie, Junlin Wang, **Ruomin Huang**, Minxing Zhang, Rong Ge, Jian Pei, Neil Gong, Bhuwan Dhingra<br>EMNLP 2024
 
