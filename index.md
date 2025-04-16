@@ -11,19 +11,21 @@ Previously I worked on the algorithmic aspect of ML. Now I am interested in ~~me
 #### Publications
  \* denotes equal contribution.
 
-- [Task Descriptors Help Transformers Learn Linear Models In-Context](https://openreview.net/pdf?id=lZNb1CVm5O)<br>**Ruomin Huang** and Rong Ge<br>ICLR 2025
-
-- [ReCaLL: Membership Inference via Relative Conditional Log-Likelihoods](https://royxie.com/recall-project-page/)<br>Roy Xie, Junlin Wang, **Ruomin Huang**, Minxing Zhang, Rong Ge, Jian Pei, Neil Gong, Bhuwan Dhingra<br>EMNLP 2024
-
-- [An Effective Dynamic Gradient Calibration Method for Continual Learning](https://arxiv.org/abs/2407.20956)<br>Weichen Lin, Jiaxiang Chen, **Ruomin Huang**, Hu Ding<br>ICML 2024
+- [Task Descriptors Help Transformers Learn Linear Models In-Context](https://openreview.net/pdf?id=lZNb1CVm5O)<br>**Ruomin Huang** and Rong Ge<br>ICLR 2025 <br> Short version appears at 1st ICML Workshop on In-Context Learning (ICL@ICML 2024)
   
-- [Coresets for Wasserstein Distributionally Robust Optimization Problems](https://arxiv.org/abs/2210.04260)<br>**Ruomin Huang**, Jiawei Huang, Wenjie Liu, Hu Ding  <br>NeurIPS 2022 (**spotlight**)
+- [To Tackle Adversarial Transferability: A Novel Ensemble Training Method with Fourier Transformation](https://openreview.net/pdf?id=KW8yzAOIZr)<br> Wanlin Zhang, Weichen Lin, **Ruomin Huang**, Shihong Song and Hu Ding <br> ICLR 2025
 
-- [Coresets for Relational Data and The Applications](https://arxiv.org/abs/2210.04249)<br>Jiaxiang Chen, Qingyuan Yang, **Ruomin Huang**, Hu Ding<br>NeurIPS 2022 (**spotlight**)
+- [ReCaLL: Membership Inference via Relative Conditional Log-Likelihoods](https://royxie.com/recall-project-page/)<br>Roy Xie, Junlin Wang, **Ruomin Huang**, Minxing Zhang, Rong Ge, Jian Pei, Neil Gong and Bhuwan Dhingra<br>EMNLP 2024
 
-- [A Novel Sequential Coreset Method for Gradient Descent Algorithms](https://arxiv.org/abs/2112.02504)<br>Jiawei Huang\*, **Ruomin Huang**\*, Wenjie Liu\*, Nikolaos M. Freris, Hu Ding<br>ICML 2021 (**spotlight**)
+- [An Effective Dynamic Gradient Calibration Method for Continual Learning](https://arxiv.org/abs/2407.20956)<br>Weichen Lin, Jiaxiang Chen, **Ruomin Huang** and Hu Ding<br>ICML 2024
   
-- [Randomized Greedy Algorithms and Composable Coreset for k-Center Clustering with Outliers](https://arxiv.org/abs/2301.02814)<br>Hu Ding, **Ruomin Huang**, Kai Liu, Haikuo Yu, Zixiu Wang<br>Preprint
+- [Coresets for Wasserstein Distributionally Robust Optimization Problems](https://arxiv.org/abs/2210.04260)<br>**Ruomin Huang**, Jiawei Huang, Wenjie Liu and Hu Ding  <br>NeurIPS 2022 (**spotlight**)
+
+- [Coresets for Relational Data and The Applications](https://arxiv.org/abs/2210.04249)<br>Jiaxiang Chen, Qingyuan Yang, **Ruomin Huang** and Hu Ding<br>NeurIPS 2022 (**spotlight**)
+
+- [A Novel Sequential Coreset Method for Gradient Descent Algorithms](https://arxiv.org/abs/2112.02504)<br>Jiawei Huang\*, **Ruomin Huang**\*, Wenjie Liu\*, Nikolaos M. Freris and Hu Ding<br>ICML 2021 (**spotlight**)
+  
+- [Randomized Greedy Algorithms and Composable Coreset for k-Center Clustering with Outliers](https://arxiv.org/abs/2301.02814)<br>Hu Ding, **Ruomin Huang**, Kai Liu, Haikuo Yu and Zixiu Wang<br>Preprint
 
 ## Teaching Assistant
 
@@ -34,18 +36,8 @@ Previously I worked on the algorithmic aspect of ML. Now I am interested in ~~me
 #### Doctoral course
 * COMP7102P01 Advanced Algorithms Design and Analysis (2021 fall, USTC)
 
-## Seminar
-
-I am open to discussions.
-
-- Feature Learning Seminar (2022 spring) on papers:
-    - the Tensor Program series, by [Greg Yang](https://thegregyang.com/), et al.
-
-- High-Dimensional Statistics Seminar (2021 fall) on books:
-    - [High-Dimensional Statistics: A Non-Asymptotic Viewpoint][4], by Martin J. Wainwright. 
-    - [High-Dimensional Probability: An Introduction with Applications in Data Science][5], by Roman Vershynin.
-- Spectral and Algebraic Graph Seminar (2021 fall) on the note:
-    - [Spectral and Algebraic Graph Theory][6], by Daniel A. Spielman.
+## Services
+* Reviewer for ICML, NeurIPS, ICLR and SoCG.
 
 
 
@@ -53,6 +45,3 @@ I am open to discussions.
 [1]: http://en.ustc.edu.cn/
 [2]: https://hu-ding.github.io/
 [3]: http://math.ustc.edu.cn/ENGLISH/list.htm
-[4]: https://www.cambridge.org/core/books/highdimensional-statistics/8A91ECEEC38F46DAB53E9FF8757C7A4E
-[5]: https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.html#
-[6]: http://cs-www.cs.yale.edu/homes/spielman/sagt/
