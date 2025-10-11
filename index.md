@@ -2,7 +2,7 @@
 layout: default
 title: Ruomin Huang
 ---
-I am Ruomin Huang (**黄若民** in Chinese), a 2nd-year CS Ph.D. student at Duke University. I am very fortunate to be advised by Prof. [Rong Ge][0]. Previously I received M.S. in Data Science and B.S. in Computational Mathematics from [USTC][1], where I worked with Prof. [Hu Ding][2].
+I am Ruomin Huang (**黄若民** in Chinese), a 3rd-year CS Ph.D. student at Duke University. I am very fortunate to be advised by Prof. [Rong Ge][0]. Previously I received M.S. in Data Science and B.S. in Computational Mathematics from [USTC][1], where I worked with Prof. [Hu Ding][2].
 
 
 ## Research
