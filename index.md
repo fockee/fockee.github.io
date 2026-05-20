@@ -11,6 +11,8 @@ Previously I worked on the algorithmic aspect of ML. Now I am interested in ~~me
 #### Publications
  \* denotes equal contribution.
 
+- Fine-Tuning Dynamics of In-Context Factual Recall in Transformers<br>**Ruomin Huang**, Eshaan Nichani, Jason D. Lee and Rong Ge<br> In submission
+
 - [Task Descriptors Help Transformers Learn Linear Models In-Context](https://openreview.net/pdf?id=lZNb1CVm5O)<br>**Ruomin Huang** and Rong Ge<br>ICLR 2025 <br> Short version appears at 1st ICML Workshop on In-Context Learning (ICL@ICML 2024)
   
 - [To Tackle Adversarial Transferability: A Novel Ensemble Training Method with Fourier Transformation](https://openreview.net/pdf?id=KW8yzAOIZr)<br> Wanlin Zhang, Weichen Lin, **Ruomin Huang**, Shihong Song and Hu Ding <br> ICLR 2025
