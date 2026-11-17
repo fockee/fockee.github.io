@@ -15,7 +15,7 @@ plugins:
 
 sidebar:
   - name: Home
-    icon: <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" style="vertical-align:-0.125em;" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><g fill="currentColor"><path d="M4 0h5.293A1 1 0 0 1 10 .293L13.707 4a1 1 0 0 1 .293.707V14a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V2a2 2 0 0 1 2-2zm5.5 1.5v2a1 1 0 0 0 1 1h2l-3-3z"/></g></svg>
+    icon: <i class="fa-solid fa-house"></i>
     link: ./
   - name: Email
     icon: <i class="fa-solid fa-envelope"></i>
@@ -29,3 +29,6 @@ sidebar:
   - name: Friends
     icon: <i class="fa-solid fa-address-book"></i>
     link: /friends
+  - name: CV
+    icon: <i class="fa-solid fa-file-pdf"></i>
+    link: /Resume_Ruomin.pdf
